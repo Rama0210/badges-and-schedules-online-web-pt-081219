@@ -22,3 +22,4 @@ def printer(name)
   assign_rooms(name).each do |room_assignment|
     puts room_assignment
   end
+end
