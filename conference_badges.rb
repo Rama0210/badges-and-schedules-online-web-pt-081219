@@ -18,5 +18,5 @@ end
 
 def printer(attendees)
   attendees.each_with_index do |name, index|
-    puts message
+    puts badge_maker
   end
